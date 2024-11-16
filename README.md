@@ -31,7 +31,6 @@ Dự án này sử dụng mô hình hồi quy tuyến tính đơn biến để d
 ### **Cài đặt thư viện**
 Sử dụng lệnh sau để cài đặt các thư viện cần thiết:
 
----bash
 pip install -r requirements.txt
 
 
@@ -43,7 +42,6 @@ pip install -r requirements.txt
 2. **Chạy chương trình**:
    - Mở terminal/command prompt, điều hướng đến thư mục chứa file `main.py`, và chạy lệnh:
 
-   ```bash
    python main.py
 
 
@@ -80,8 +78,6 @@ Sử dụng mô hình đã lưu để dự đoán giá nhà dựa trên diện t
 ## Hướng dẫn sử dụng GUI
 - Chạy giao diện (GUI)
 Chạy file Python chứa giao diện:
-
--```bash
 python gui.py
 
 - Giao diện cho phép:
