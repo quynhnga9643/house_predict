@@ -32,3 +32,15 @@ Sử dụng lệnh sau để cài đặt các thư viện cần thiết:
 
 ```bash
 pip install -r requirements.txt
+
+### **Cách chạy dự ánn**
+
+1. **Tải dữ liệu**:
+   - Đảm bảo file dữ liệu `house_data.csv` nằm trong cùng thư mục với file `main.py`.
+
+2. **Chạy chương trình**:
+   - Mở terminal/command prompt, điều hướng đến thư mục chứa file `main.py`, và chạy lệnh:
+
+   ```bash
+   python main.py
+
