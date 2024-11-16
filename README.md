@@ -81,7 +81,7 @@ Sử dụng mô hình đã lưu để dự đoán giá nhà dựa trên diện t
 - Chạy giao diện (GUI)
 Chạy file Python chứa giao diện:
 
-```bash
+---bash
 python gui.py
 
 - Giao diện cho phép:
@@ -99,6 +99,11 @@ Hiển thị kết quả giá nhà dự đoán trên màn hình.
 Sử dụng hồi quy đa biến (Multiple Regression) để đưa thêm các yếu tố như số phòng ngủ, vị trí, số tầng.
 
 - Tích hợp thêm thuật toán khác như Decision Tree, Random Forest để tăng độ chính xác
+
+
+
+
+
 
 
 
