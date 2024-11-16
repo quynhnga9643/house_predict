@@ -78,7 +78,7 @@ Sử dụng mô hình đã lưu để dự đoán giá nhà dựa trên diện t
 ## Hướng dẫn sử dụng GUI
 - Chạy giao diện (GUI)
 Chạy file Python chứa giao diện:
-python gui.py
+python app.py
 
 - Giao diện cho phép:
 Nhập diện tích nhà (sqft_living).
