@@ -81,7 +81,7 @@ Sử dụng mô hình đã lưu để dự đoán giá nhà dựa trên diện t
 - Chạy giao diện (GUI)
 Chạy file Python chứa giao diện:
 
----bash
+-```bash
 python gui.py
 
 - Giao diện cho phép:
