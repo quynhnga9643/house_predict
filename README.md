@@ -96,7 +96,9 @@ Sử dụng hồi quy đa biến (Multiple Regression) để đưa thêm các y�
 
 - Tích hợp thêm thuật toán khác như Decision Tree, Random Forest để tăng độ chính xác
 
+---
 
+### Link Github dự án: https://github.com/quynhnga9643/house_predict.git
 
 
 
